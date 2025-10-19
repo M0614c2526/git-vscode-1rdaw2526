@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0d998;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.web {
+  text-align: center;
+  color: #0d0101;
+}
+
+.web img {
+  width: 250px;
+  height: auto;
+  margin: 20px 0;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5;
+}
